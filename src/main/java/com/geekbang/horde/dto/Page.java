@@ -3,7 +3,7 @@ package com.geekbang.horde.dto;
 import lombok.Data;
 
 /**
- * @author chenbing
+ * @author tankdev
  * @since 2020-02-25 17:34
  */
 @Data

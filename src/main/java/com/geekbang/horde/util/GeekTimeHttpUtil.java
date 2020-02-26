@@ -29,7 +29,7 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * @author chenbing
+ * @author tankdev
  * @since 2019-08-25 10:27
  */
 public class GeekTimeHttpUtil {

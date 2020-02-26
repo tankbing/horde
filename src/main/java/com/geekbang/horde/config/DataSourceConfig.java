@@ -8,7 +8,7 @@ import org.springframework.core.env.Environment;
 import javax.sql.DataSource;
 
 /**
- * @author chenbing
+ * @author tankdev
  * @since 2020-02-26 16:08
  */
 @Configuration

@@ -3,7 +3,7 @@ package com.geekbang.horde.entity;
 import lombok.Data;
 
 /**
- * @author chenbing
+ * @author tankdev
  * @since 2020-02-26 22:44
  */
 @Data

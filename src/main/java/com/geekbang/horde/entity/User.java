@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
- * @author chenbing
+ * @author tankdev
  * @since 2020-02-26 14:18
  */
 @Data
